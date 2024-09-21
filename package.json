@@ -1,0 +1,14 @@
+{
+  "name": "puzzleboy-tiled",
+  "version": "1.0.0",
+  "main": "PuzzleBoy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pomariin",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@mapeditor/tiled-api": "^1.10.1"
+  }
+}

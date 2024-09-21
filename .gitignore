@@ -1,0 +1,4 @@
+node_modules/
+*.tiled-session
+*.bytes
+*.tmx

@@ -1,0 +1,50 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "compatibilityVersion": 1100,
+    "extensionsPath": "extensions",
+    "folders": [
+        "."
+    ],
+    "properties": [
+    ],
+    "propertyTypes": [
+        {
+            "color": "#ff00ffff",
+            "drawFill": true,
+            "id": 2,
+            "members": [
+            ],
+            "name": "Goal",
+            "type": "class",
+            "useAs": [
+                "object",
+                "project"
+            ]
+        },
+        {
+            "color": "#ffff8800",
+            "drawFill": true,
+            "id": 1,
+            "members": [
+                {
+                    "name": "Enabled",
+                    "type": "bool",
+                    "value": true
+                },
+                {
+                    "name": "Slot ID",
+                    "type": "int",
+                    "value": 1
+                }
+            ],
+            "name": "Start",
+            "type": "class",
+            "useAs": [
+                "object",
+                "project"
+            ]
+        }
+    ]
+}
